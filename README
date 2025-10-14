@@ -1,0 +1,36 @@
+# 🛒 MarketPlace
+
+Bem-vindo ao **MarketPlace**, um site moderno e intuitivo para **compra e venda de produtos novos e usados**.  
+Aqui, qualquer pessoa pode anunciar os seus produtos, negociar diretamente com compradores e vender de forma simples, rápida e segura.
+
+## 🚀 Funcionalidades Principais
+
+- 📦 Publicação de anúncios com fotos, descrição e preço  
+- 🔍 Pesquisa avançada por categoria, localização e preço  
+- 💬 Sistema de mensagens entre comprador e vendedor  
+- ⭐ Avaliações e reputação de utilizadores  
+- 🔐 Autenticação segura e gestão de conta pessoal  
+- 💳 Suporte a múltiplos métodos de pagamento
+
+## 🧱 Tecnologias Utilizadas
+
+- **Frontend:** React + TailwindCSS  
+- **Backend:** Node.js + Express  
+- **Base de Dados:** MySQL  
+- **Autenticação:** JWT  
+- **Hospedagem:** Azure / AWS (dependendo do ambiente)
+
+## ⚙️ Instalação e Execução Local
+
+```bash
+# Clonar o repositório
+git clone https://github.com/teuuser/marketplace.git
+
+# Aceder à pasta do projeto
+cd marketplace
+
+# Instalar dependências
+npm install
+
+# Iniciar o servidor
+npm start
